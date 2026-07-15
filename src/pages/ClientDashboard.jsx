@@ -208,7 +208,7 @@ const ClientDashboard = () => {
                         <td className="px-6 py-4">{p.payee?.name}</td>
 
                         <td className="px-6 py-4 font-semibold text-teal-700">
-                          ${p.amount}
+                          ₹{p.amount}
                         </td>
 
                         <td className="px-6 py-4">
