@@ -1,32 +1,28 @@
-TalentHub – Freelance Marketplace
+# TalentHub – Freelance Marketplace
 
-TalentHub is a full-stack freelance marketplace platform that connects clients with talented freelancers. Clients can post projects, manage requirements, and hire freelancers, while freelancers can showcase their skills, apply for projects, and manage their work opportunities.
+TalentHub is a full-stack freelance marketplace platform that connects clients with skilled freelancers. Clients can create and manage projects, define requirements, and hire suitable freelancers, while freelancers can showcase their expertise, apply for projects, manage contracts, and track their work opportunities.
 
-Payment Testing
+## Payment Testing
 
-Card Number: 4242 4242 4242 4242
+Use the following test card details for payment flow testing:
 
-Expiry Date: 12/30
+- **Card Number:** 4242 4242 4242 4242
+- **Expiry Date:** 12/30
+- **CVC:** 123
 
-CVC: 123
+## Demo Login
 
+**Role:** Freelancer
 
-Demo Login
+**Email:** keerthana@gmail.com
+**Password:** keerthana
 
-Role: Freelancer
+## Freelancer Dashboard Demo
 
-Email: keerthana@gmail.com
+The freelancer dashboard showcases the complete project workflow, including:
 
-Password: keerthana
+- Service listing and management
+- Contract creation and tracking
+- Payment process flow
 
-Dashboard Demo
-
-The freelancer dashboard demonstrates the complete workflow:
-
-Service listing 
-
-Contract creation 
-
-Payment process 
-
-Use the above credentials to explore the freelancer features and review the complete project flow.
+Use the above demo credentials to explore the freelancer features and review the complete TalentHub workflow.
