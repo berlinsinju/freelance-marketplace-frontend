@@ -144,7 +144,7 @@ const FreelancerDashboard = () => {
 
                     <div className="text-right">
                       <p className="text-xl font-bold text-teal-700">
-                        ${c.totalAmount}
+                        ₹{c.totalAmount}
                       </p>
 
                       <span className="mt-2 inline-block rounded-full bg-teal-100 px-3 py-1 text-xs font-semibold capitalize text-teal-700">
