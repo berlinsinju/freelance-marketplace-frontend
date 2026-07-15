@@ -9,3 +9,24 @@ Card Number: 4242 4242 4242 4242
 Expiry Date: 12/30
 
 CVC: 123
+
+
+Demo Login
+
+Role: Freelancer
+
+Email: keerthana@gmail.com
+
+Password: keerthana
+
+Dashboard Demo
+
+The freelancer dashboard demonstrates the complete workflow:
+
+Service listing 
+
+Contract creation 
+
+Payment process 
+
+Use the above credentials to explore the freelancer features and review the complete project flow.
